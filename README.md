@@ -72,4 +72,4 @@ Here are some ideas to get you started:
 
 
 ### 📫 Let's Connect!  
-- 🔹 [LinkedIn]([your-link](https://www.linkedin.com/in/mohammedmahmoudhamad/))  
+- 🔹 [LinkedIn](https://www.linkedin.com/in/mohammedmahmoudhamad/)  

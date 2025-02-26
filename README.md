@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 🚀 **AI Engineer | Computer Vision & NLP Enthusiast | C++ & Python Developer**  
 
-- 🔹 Passionate about AI, particularly **Computer Vision** and **Natural Language Processing**  
-- 🔹 Experienced in **Machine Learning, Deep Learning, and Time Series Forecasting**  
-- 🔹 Strong background in **C++ (arrays, bit manipulation)** and **Python (PyTorch, TensorFlow)**  
-- 🔹 Skilled in AI model development, optimization, and deployment with **Docker & Ubuntu**
+-  Passionate about AI, particularly **Computer Vision** and **Natural Language Processing**  
+-  Experienced in **Machine Learning, Deep Learning, and Time Series Forecasting**  
+-  Strong background in **C++ (arrays, bit manipulation)** and **Python (PyTorch, TensorFlow)**  
+-  Skilled in AI model development, optimization, and deployment with **Docker & Ubuntu**
 
 ### 🎓 Education  
 - **Bachelor's Degree in Computer Science** – FCIS, Ain Shams University (Grade: B)  
@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 - 🥉 **Ranked 3rd** in Ain Shams University Machine Learning competition  
 
 ### 📌 Current Work  
-- 🔹 AI bootcamp participant, expanding expertise in advanced AI techniques  
-- 🔹 Developing AI models for **regression, forecasting, and efficiency optimization**  
-- 🔹 Working on **Sequence-to-Sequence (Seq2Seq) models** for NLP tasks  
-- 🔹 Exploring **Large Language Models (LLMs)** and their applications
+-  AI bootcamp participant, expanding expertise in advanced AI techniques  
+-  Developing AI models for **regression, forecasting, and efficiency optimization**  
+-  Working on **Sequence-to-Sequence (Seq2Seq) models** for NLP tasks  
+-  Exploring **Large Language Models (LLMs)** and their applications
 
 ## 💻 Tech Stack  
 
